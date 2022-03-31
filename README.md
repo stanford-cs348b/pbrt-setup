@@ -1,4 +1,4 @@
-# HW1: set up PBRT and experiment with lighting design
+# HW1: Set up PBRT and Experiment with Lighting Design
 
 This assignment is designed to help you get pbrt, the physically-based rendering system you will use throughout this course, set up and running on your machine, as well as teach you a bit about lighting design. Along the way, you'll familiarize yourself with the software by rendering several test scenes and reading the first few chapters of the textbook. The pbrt system has been developed and tested extensively on Linux, MacOSX, and Windows; feel free to use whatever platform you're most comfortable with.
 
@@ -6,7 +6,7 @@ This assignment is designed to help you get pbrt, the physically-based rendering
  
  [OpenEXR](http://www.openexr.com/index.html)
 
-# Step 0: Github Setup
+# Step 0: GitHub Setup
 ***
 
 In order to submit your assignments, please create a private Github repo named `cs348b-2020-yoursunetid`, 
