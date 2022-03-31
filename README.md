@@ -1,11 +1,10 @@
-# pbrt-setup
-HW1: set up PBRT and experiment with lighting design
-
- [Building pbrt](http://www.pbrt.org/building.php)
- [OpenEXR](http://www.openexr.com/index.html)
-**Due date: Tuesday April 6th, 2021 by 11:59PM PDT.**
+# HW1: set up PBRT and experiment with lighting design
 
 This assignment is designed to help you get pbrt, the physically-based rendering system you will use throughout this course, set up and running on your machine, as well as teach you a bit about lighting design. Along the way, you'll familiarize yourself with the software by rendering several test scenes and reading the first few chapters of the textbook. The pbrt system has been developed and tested extensively on Linux, MacOSX, and Windows; feel free to use whatever platform you're most comfortable with.
+
+ [Building pbrt](http://www.pbrt.org/building.php)
+ 
+ [OpenEXR](http://www.openexr.com/index.html)
 
 # Step 0: Github Setup
 ***
@@ -41,7 +40,7 @@ On OS X and linux this is as simple as adding
 
     export PATH=$full_path_to_your_pbrt_build_directory:$PATH
     
-to your [.bash\\_profile file](http://superuser.com/questions/678113/how-to-add-a-line-to-bash-profile). On Windows, you can use the GUI to change your [PATH environment variable](http://superuser.com/questions/949560/how-do-i-set-system-environment-variables-in-windows-10).
+to your [.bash\_profile file](http://superuser.com/questions/678113/how-to-add-a-line-to-bash-profile). On Windows, you can use the GUI to change your [PATH environment variable](http://superuser.com/questions/949560/how-do-i-set-system-environment-variables-in-windows-10).
 
 For the remainder of this assignment, we'll assume that pbrt is correctly built and that the pbrt binaries are in your path.
 
