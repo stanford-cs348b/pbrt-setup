@@ -9,7 +9,7 @@ This assignment is designed to help you get pbrt, the physically-based rendering
 # Step 0: GitHub Setup
 ***
 
-In order to submit your assignments, please create a private Github repo named `cs348b-2020-yoursunetid`, 
+In order to submit your assignments, please create a private Github repo named `cs348b-2022-yoursunetid`, 
 then duplicate the [pbrt-v3 github repo](https://github.com/mmp/pbrt-v3) by following [these 4 steps for mirroring a repository](https://help.github.com/articles/duplicating-a-repository/).  It is important to make sure your repo is private, as publicly posting solutions to assignments is a violation of the Stanford Honor Code. Note that this means you cannot use Github's fork feature as it does not allow making private forks of public repositories.
 
 Once you have created your repository, invite the TAs using their Github usernames (posted on Ed) by following [these instructions](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository).
