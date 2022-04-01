@@ -2,10 +2,6 @@
 
 This assignment is designed to help you get pbrt, the physically-based rendering system you will use throughout this course, set up and running on your machine, as well as teach you a bit about lighting design. Along the way, you'll familiarize yourself with the software by rendering several test scenes and reading the first few chapters of the textbook. The pbrt system has been developed and tested extensively on Linux, MacOSX, and Windows; feel free to use whatever platform you're most comfortable with.
 
- [Building pbrt](http://www.pbrt.org/building.php)
- 
- [OpenEXR](http://www.openexr.com/index.html)
-
 # Step 0: GitHub Setup
 ***
 
