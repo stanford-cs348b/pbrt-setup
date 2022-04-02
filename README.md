@@ -1,5 +1,7 @@
 # HW1: Set up PBRT and Experiment with Lighting Design
 
+# Due Date: Tuesday, April 12th, 11:59PM PST
+
 This assignment is designed to help you get pbrt, the physically-based rendering system you will use throughout this course, set up and running on your machine, as well as teach you a bit about lighting design. Along the way, you'll familiarize yourself with the software by rendering several test scenes and reading the first few chapters of the textbook. The pbrt system has been developed and tested extensively on Linux, MacOSX, and Windows; feel free to use whatever platform you're most comfortable with.
 
 # Step 0: GitHub Setup
@@ -34,7 +36,7 @@ where the `pbrt` binary is located (for example `./pbrt-build/pbrt`). However, i
 
 On OS X and linux this is as simple as adding 
 
-    export PATH=$full_path_to_your_pbrt_build_directory:$PATH
+    export PATH=full_path_to_your_pbrt_build_directory:$PATH
     
 to your [.bash\_profile file](http://superuser.com/questions/678113/how-to-add-a-line-to-bash-profile). On Windows, you can use the GUI to change your [PATH environment variable](http://superuser.com/questions/949560/how-do-i-set-system-environment-variables-in-windows-10).
 
@@ -217,4 +219,4 @@ Once your pull request is created, review it to ensure it contains all the requi
  * one for configuration 5
  * one for configuration 6
 2. `.pbrt` files (`config1-6.pbrt`)
-3. Your Submission.md file
+3. Your `Submission.md` file
