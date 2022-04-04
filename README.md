@@ -103,7 +103,7 @@ The light from a pbrt spotlight originates from a single point in space. Light o
     Shape "disk" "float radius" [1.5]  
     AttributeEnd
 
-Light from this source is emitted from a disk of radius 1.5\\. The luminance (or energy) emitted by this light source is given by the value "L". Take out the spotlight from Configuration 1 and modify the area light definition above to produce an image similar to the one shown below. Save your settings in `scenes/assignment1/config2.pbrt`, and save the rendered result in `scenes/assignment1/render2.png`.
+Light from this source is emitted from a disk of radius 1.5\. The luminance (or energy) emitted by this light source is given by the value "L". Take out the spotlight from Configuration 1 and modify the area light definition above to produce an image similar to the one shown below. Save your settings in `scenes/assignment1/config2.pbrt`, and save the rendered result in `scenes/assignment1/render2.png`.
 
 ![](http://graphics.stanford.edu/courses/cs348b-20-spring-content/article_images/4_4.jpg)
 
