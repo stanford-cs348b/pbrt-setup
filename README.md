@@ -38,7 +38,7 @@ On OS X and linux this is as simple as adding
 
     export PATH=full_path_to_your_pbrt_build_directory:$PATH
     
-to your [.bash\_profile file](http://superuser.com/questions/678113/how-to-add-a-line-to-bash-profile). On Windows, you can use the GUI to change your [PATH environment variable](http://superuser.com/questions/949560/how-do-i-set-system-environment-variables-in-windows-10).
+to your [.bash\_profile file](http://superuser.com/questions/678113/how-to-add-a-line-to-bash-profile) (or to your `.zprofile` file if using zsh). On Windows, you can use the GUI to change your [PATH environment variable](http://superuser.com/questions/949560/how-do-i-set-system-environment-variables-in-windows-10).
 
 For the remainder of this assignment, we'll assume that pbrt is correctly built and that the pbrt binaries are in your path.
 
